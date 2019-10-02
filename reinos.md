@@ -1,3 +1,5 @@
-reino1
-reino2
-reino3
+Reino del Norte
+Reino de la Roca
+Reino de las Islas
+Reino de las montañas
+Reino del Valle
